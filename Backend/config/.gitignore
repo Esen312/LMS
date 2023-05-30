@@ -1,5 +1,5 @@
 .idea/
-frontend
+
 # Created by https://www.gitignore.io/api/macos,linux,django,python,pycharm
 
 ### Django ###
@@ -211,4 +211,6 @@ ENV/
 # mkdocs documentation
 /site
 
+
+.dockerignore
 # End of https://www.gitignore.io/api/macos,linux,django,python,pycharm
